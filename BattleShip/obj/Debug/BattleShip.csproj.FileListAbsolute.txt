@@ -1,0 +1,14 @@
+C:\Konstantin\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\Technologist\Documents\GitHub\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\Technologist\Documents\GitHub\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\Technologist\Documents\GitHub\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\Technologist\Documents\GitHub\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+C:\Users\Technologist\Documents\GitHub\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
+C:\Konstantin\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Konstantin\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Konstantin\BattleShip\BattleShip\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
+C:\Konstantin\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+C:\Konstantin\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
+C:\Users\Technologist\Documents\GitHub\BattleShip\BattleShip\bin\Debug\EntityFramework.dll
+C:\Users\Technologist\Documents\GitHub\BattleShip\BattleShip\bin\Debug\EntityFramework.xml
+C:\Users\Technologist\Documents\GitHub\BattleShip\BattleShip\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
